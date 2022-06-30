@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jaxws-api-2.3.1">
+    <CLASSES>
+      <root url="jar://E:/javaRelated/java.xml.ws/jaxws-api-2.3.1.jar!/" />
+      <root url="jar://E:/javaRelated/java.xml.ws/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://E:/javaRelated/java.xml.ws/javax.xml.soap-api-1.4.0.jar!/" />
+      <root url="jar://E:/javaRelated/java.xml.ws/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://E:/javaRelated/java.xml.ws/javax.activation-api-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
